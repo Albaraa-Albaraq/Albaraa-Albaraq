@@ -1,4 +1,4 @@
-![header](Image/Screenshot%202025-09-26%20110635.png)
+![header](Image/Profile image.png)
 ### ✨ About Me
 ```json
 {

@@ -1,4 +1,4 @@
-![header](https://github.com/user-attachments/Image/Profile%image.png)
+![header](Image/Profile_image.png)
 ### ✨ About Me
 ```json
 {

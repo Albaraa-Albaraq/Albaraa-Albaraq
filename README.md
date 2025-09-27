@@ -1,4 +1,4 @@
-![header](Image/Profile_image.png)
+![header](Image/ProfileImage.png)
 ### ✨ About Me
 ```json
 {

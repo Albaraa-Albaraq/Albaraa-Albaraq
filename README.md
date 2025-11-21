@@ -17,7 +17,7 @@
 }
 ```
 ### 📫 Reach Out 
-→ Telegram: [@ALbaraALbaraq](https://t.me/ALbaraALbaraq)
+→ WhatsApp: [@ALbaraALbaraq](wa.me/967773226941)
 
 → LinkedIn: [Albaraa Albaraq](linkedin.com/in/albaraa-albaraq-6ba098386)
 
